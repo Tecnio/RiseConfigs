@@ -1,4 +1,4 @@
-Rise_Version_5.1
+Rise_Version_5.2
 Toggle_Interface_true
 ModeSetting_Interface_Theme_Rise Blend
 ModeSetting_Interface_List Animation_Slide
@@ -40,7 +40,7 @@ NumberSetting_Aura_Switch Delay_0.0
 ModeSetting_Aura_Rotation Mode_Custom
 NumberSetting_Aura_Max Rot_72.60000000000001
 NumberSetting_Aura_Min Rot_1.0
-ModeSetting_Aura_Block Mode_None
+ModeSetting_Aura_Block Mode_Fake
 BooleanSetting_Aura_Raycast_true
 BooleanSetting_Aura_Thru Walls_false
 BooleanSetting_Aura_Keep Sprint_false
@@ -56,7 +56,7 @@ BooleanSetting_Aura_Attack Dead_true
 BooleanSetting_Aura_Only Sword_false
 BooleanSetting_Aura_Ignore NPCs_true
 BooleanSetting_Aura_Target ESP_true
-BooleanSetting_Aura_Display Range_true
+BooleanSetting_Aura_Display Range_false
 BooleanSetting_Aura_Disable On World Change_true
 BooleanSetting_Aura_Attack With Scaffold_true
 BooleanSetting_Aura_Attack in Inventory_true
